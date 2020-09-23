@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "herokungapp"
+    }
+  },
+  "defaultProject": "herokungapp",
+  "cli": {
+    "analytics": "fb138df0-4931-48a6-a662-7b9aec74f334"
+  }
 }
